@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "私は私の道を行く",
+  "base_artist": "中野梓 (CV:竹達彩奈)",
+  "createdAt": "2026-02-18T21:56:12.561309Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "私は私の道を行く",
+      "artist": "中野 梓(CV:竹達彩奈)",
+      "has_synced": false,
+      "path": "select/01_私は私の道を行く_中野_梓(CV_竹達彩奈).txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "私は私の道を行く",
+      "artist": "中野梓 (CV:竹達彩奈)",
+      "has_synced": false,
+      "path": "select/02_私は私の道を行く_中野梓_(CV_竹達彩奈).txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "私は私の道を行く",
+      "artist": "竹達彩奈",
+      "has_synced": false,
+      "path": "select/03_私は私の道を行く_竹達彩奈.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "私は私の道を行く",
+      "artist": "Nakano Azusa (CV: Ayana Taketatsu)",
+      "has_synced": false,
+      "path": "select/04_私は私の道を行く_Nakano_Azusa_(CV__Ayana_Taketatsu).txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "私は私の道を行く",
+      "artist": "Nakano, Azusa(CV:Taketatsu, Ayana)",
+      "has_synced": false,
+      "path": "select/05_私は私の道を行く_Nakano,_Azusa(CV_Taketatsu,_Ayana).txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "私は私の道を行く",
+      "artist": "中野梓",
+      "has_synced": true,
+      "path": "select/06_私は私の道を行く_中野梓.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "私は私の道を行く",
+      "artist": "中野梓(CV:竹達彩奈)",
+      "has_synced": true,
+      "path": "select/07_私は私の道を行く_中野梓(CV_竹達彩奈).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "私は私の道を行く",
+      "artist": "中野梓 (竹達彩奈)",
+      "has_synced": true,
+      "path": "select/08_私は私の道を行く_中野梓_(竹達彩奈).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "私は私の道を行く",
+      "artist": "中野梓 (CV：竹達彩奈)",
+      "has_synced": true,
+      "path": "select/09_私は私の道を行く_中野梓_(CV_竹達彩奈).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "私は私の道を行く",
+      "artist": "中野梓(CV:竹達彩奈)",
+      "has_synced": false,
+      "path": "select/pl_01_私は私の道を行く_中野梓(CV_竹達彩奈).txt"
+    }
+  ]
+}
